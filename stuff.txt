@@ -1,0 +1,4 @@
+admin: Nino 
+not_authorized: 
+activities: none 
+prefix: ! 
