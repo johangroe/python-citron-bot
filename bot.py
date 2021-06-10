@@ -108,7 +108,7 @@ async def on_ready():
 
     f.close()
 
-    print(prefix)
+    #print(prefix)
 
 
     if last_activity_type == "game":
