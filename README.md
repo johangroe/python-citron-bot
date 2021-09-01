@@ -34,7 +34,7 @@ Execute the bot.py file now, and it should turn on.
 To gain Admin-Access, you have to include your **Username without the #0000 AND a space after it** in the stuff.txt file. Then fire it up, and you should be good to go.
 
 ## It's not 24/7 online:
-You can host it at [repl.it](repl.it). Create a new repl, put the three files in there, copy your repl-address and ping it using [uptimerobot](https://uptimerobot.com/).
+You can host it at [repl.it](https://www.repl.it). Create a new repl, put the three files in there, copy your repl-address and ping it using [uptimerobot](https://uptimerobot.com/).
 
 ## Problems?:
 
