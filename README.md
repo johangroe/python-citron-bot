@@ -1,3 +1,4 @@
+[![status - finished](https://img.shields.io/badge/status-finished-brightgreen)](https://github.com/johangroe/)
 # python-citron-bot
 
 This is a Discord bot, written in Python using [Rapptz discord.py](https://github.com/Rapptz/discord.py), currently only available in german, sorry.
@@ -38,4 +39,4 @@ You can host it at [repl.it](https://www.repl.it). Create a new repl, put the th
 
 ## Problems?:
 
-Send me an [Email](mailto:johan.groeger@gmail.com)
+Send me an Email: johan dot groeger at gmail dot com
